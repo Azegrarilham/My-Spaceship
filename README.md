@@ -1,5 +1,5 @@
 # 🚀 3D Space Shooting Game
-![Spaced Game](Assets/Screenshot2024-08-05134756.png)
+![Spaced Game](Assets/landing.png)
 A complete 3D space shooting game where you control your spaceship with your mouse and blast through waves of enemies!
 
 ## 🎮 Controls
